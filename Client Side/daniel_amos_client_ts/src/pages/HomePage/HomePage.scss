@@ -1,0 +1,122 @@
+@use "../../styles/variables.scss" as *;
+@use "../../styles/animations.scss" as *;
+
+div.page {
+  header.homePageHeader {
+    padding: 5px 0;
+
+    div.infoBox {
+      background-color: #fff8dc;
+      border: 2px solid #ffd700;
+      border-radius: 10px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+      color: #333;
+      font-size: $topTitle-font-size;
+      font-family: $topTitle-font-family;
+
+      h3.homePageHeaderTitle {
+        font-size: $header-font-size;
+        font-family: $header-font-family;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+      }
+
+      p.homePageHeaderDesc {
+        font-size: $title-font-size;
+        font-family: $title-font-family;
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+
+        a.homePageHeaderLink {
+          color: #0066cc;
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+
+  div.servicesSection {
+    padding: 60px 0;
+
+    div.servicesSectionTopRow {
+      div.servicesSectionTopCol {
+        h2.servicesTitle {
+          font-size: $topHeader-font-size;
+          font-family: $topHeader-font-family;
+          color: #048cac;
+          animation: fadeIn 1s ease-in-out;
+        }
+
+        p.servicesDescription {
+          font-size: $header-font-size;
+          font-family: $header-font-family;
+          margin-bottom: 30px;
+        }
+      }
+    }
+
+    div.servicesSectionContentRow {
+      div.servicesSectionContentCol {
+        div.serviceCard {
+          transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+          &:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+          }
+
+          img.serviceImage {
+            height: 200px;
+            object-fit: cover;
+            animation: fadeIn 1.5s ease;
+          }
+
+          div.servicesSectionContentBody {
+            div.serviceTitle {
+              font-size: $topTitle-font-size;
+              font-family: $topTitle-font-family;
+              color: #05647c;
+            }
+
+            p.serviceDescription {
+              font-size: $topTitle-font-size;
+              font-family: $topTitle-font-family;
+              color: #048cac;
+            }
+
+            button.serviceButton {
+              background-color: #048cac;
+              border: none;
+              &:hover {
+                background-color: #048cac;
+              }
+            }
+          }
+        }
+      }
+    }
+    div.videoContainerRow {
+      div.videoContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin: 20px 0;
+        margin-top: 10px;
+
+        video.serviceVideo {
+          width: 100%;
+          max-width: 600px;
+          border: 4px solid #8dd205;
+          border-radius: 10px;
+          box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+          padding: 5px;
+        }
+      }
+    }
+  }
+}

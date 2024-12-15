@@ -1,0 +1,6 @@
+@danielAmosServer_Core_HostAddress = http://localhost:5105
+
+GET {{danielAmosServer_Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

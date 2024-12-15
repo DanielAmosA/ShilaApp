@@ -1,0 +1,56 @@
+@use '../../styles/variables.scss' as *;
+@use '../../styles/animations.scss' as *;
+
+div.card{
+    background-color:#2bd4dc;
+    padding: 0.3vw;
+
+    div.cardTitle {
+      font-family: $topHeader-font-family;
+      font-size: $topHeader-font-size; 
+      font-weight: 800;
+      width: 6vw;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    img.cardImg {
+      border-radius:$big-border-radius;
+      width: 3.5vw;
+      height: auto;
+      object-fit: contain;
+    }
+  
+    p.cardText {
+      font-size: 0.5vw;
+    }
+  
+    div.card-header,
+    div.card-body,
+    div.card-footer {
+      padding: 0.4vw 0;
+    }
+  
+    div.rainbowText {
+      background: conic-gradient(
+        #ca4246 16.666%,
+        #e16541 16.666%,
+        #e16541 33.333%,
+        #f18f43 33.333%,
+        #f18f43 50%,
+        #8b9862 50%,
+        #8b9862 66.666%,
+        #476098 66.666%,
+        #476098 83.333%,
+        #a7489b 83.333%
+      );
+      background-repeat: repeat;
+      background-clip: text;
+      color: transparent;
+      animation: rainbow-text-animation-rev 0.5s ease forwards;
+  
+      &:hover {
+        animation: rainbow-text-animation 0.5s ease forwards;
+      }
+    }
+}

@@ -1,0 +1,157 @@
+@use "./variables.scss" as *;
+@use "./animations.scss" as *;
+
+div.page {
+  div.webContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    div.webCard {
+      width: 100%;
+      max-width: 600px;
+      border: none;
+      border-radius: 20px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+      animation: slideUp 0.6s ease-out forwards;
+
+      div.webCardBody {
+        div.titleContainer {
+          div.titleIcon {
+            width: 64px;
+            height: 64px;
+            background: linear-gradient(135deg, #00bcd4 0%, #007a8d 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 1rem;
+            color: white;
+            animation: pulse 2s infinite;
+          }
+          h2.titleDesc {
+            color: #333;
+            margin-bottom: 2rem;
+            position: relative;
+            animation: flickerAnimation 0.6s ease-out forwards;
+            font-size: $header-font-size;
+            font-family: $header-font-family;
+            text-align: center;
+
+            &:after {
+              content: "";
+              position: absolute;
+              bottom: -10px;
+              left: 50%;
+              transform: translateX(-50%);
+              width: 50px;
+              height: 3px;
+              background: #00bcd4;
+              border-radius: 2px;
+            }
+          }
+        }
+        div.successMsg {
+          text-align: center;
+          padding: 2rem;
+          animation: fadeIn 0.6s ease-out forwards;
+
+          svg.successIcon {
+            color: #28a745;
+            margin-bottom: 1rem;
+          }
+        }
+
+        div.webFormFields {
+          display: grid;
+          gap: 1.5rem;
+          margin-bottom: 2rem;
+
+          div.webFormField {
+            position: relative;
+
+            &:nth-child(even){
+                animation: slideRight 0.6s ease-out forwards;
+
+            }
+            &:nth-child(odd) {
+                animation: slideLeft 0.6s ease-out forwards;
+            }
+            div.webFormFieldIcon {
+              position: absolute;
+              right: 1rem;
+              top: 25%;
+              transform: translateY(-25%);
+              color: #00bcd4;
+              transition: all 0.3s ease;
+              animation: shake 0.6s ease-out forwards;
+            }
+
+            input.webFormFieldControl, select.webFormFieldControl{
+                padding-right: 3rem;
+                border-radius: 10px;
+                border: 2px solid #eee;
+                transition: all 0.3s ease;
+                height: 50px;
+
+                &:focus {
+                    border-color: #00bcd4;
+                    box-shadow: 0 0 0 0.25rem rgba(0, 188, 212, 0.25);
+                  }
+          
+                  &.is-invalid {
+                    border-color: #dc3545;
+                  }
+            }
+            &:has(input.webFormFieldControl:focus) div.webFormFieldIcon ,
+            &:has(input.webFormFieldControl.is-invalid) div.webFormFieldIcon{
+                top: 15%;
+                transform: translateY(-15%);
+            }
+
+            &:has(input.webFormFieldControl.is-invalid) div.webFormFieldIcon{
+                margin-right: 2%;
+            }
+          }
+        }
+
+        button.btnSubmit{
+            width: 100%;
+            padding: 1rem;
+            border-radius: $big-border-radius;
+            background: linear-gradient(135deg, #00bcd4 0%, #007a8d 100%);
+            border: none;
+            color: white;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            font-size: $topTitle-font-size;
+            font-family: $topTitle-font-family;
+            animation: shake 0.6s ease-out forwards;
+            &:hover {
+              transform: translateY(-2px);
+              box-shadow: 0 5px 15px rgba(15, 189, 212, 0.801);
+            }
+      
+            &:active {
+              transform: translateY(0);
+            }
+        }
+
+        img.webFormImg{
+            width: 20vw; 
+            height: 12vh;
+            max-width: 400px;
+            max-height: 400px;
+            border-radius: $small-border-radius;
+            background: linear-gradient(135deg, #d5edf1 0%, #a1d051 100%);
+        }
+      }
+    }
+  }
+}
+

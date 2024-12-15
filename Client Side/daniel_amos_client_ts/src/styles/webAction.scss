@@ -1,0 +1,135 @@
+@use "./variables.scss" as *;
+@use "./animations.scss" as *;
+
+div.page {
+  div.actionContainer {
+    div.actionTopCard {
+      background: white;
+      border: none;
+      border-radius: 1rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      animation: fadeIn 1s ease-in-out;
+
+      div.actionBody {
+        h2.actionBodyTitle {
+          font-size: $topHeader-font-size;
+          font-family: $topHeader-font-family;
+        }
+      }
+    }
+
+    div.actionRow {
+      div.actionCol {
+        div.actionCard {
+          height: 100%;
+          border: none;
+          border-radius: 1rem;
+          box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+          transition: all 0.3s ease;
+          overflow: hidden;
+          animation: slideUp 0.6s ease-out forwards;
+          opacity: 0;
+
+          &:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+          }
+
+          div.actionCardBody {
+            div.actionCardBodyHeader {
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+              margin-bottom: 1rem;
+
+              div.actionCardBodyHeaderIcon {
+                background-color: #00bcd4;
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: white;
+              }
+
+              div.actionCardBodyHeaderActions {
+                display: flex;
+                gap: 0.5rem;
+
+                button.btnAction {
+                  padding: 0.25rem;
+                  border-radius: 0.5rem;
+                  transition: all 0.2s ease;
+
+                  &:hover {
+                    color: #00bcd4;
+                  }
+                }
+              }
+            }
+            div.actionCardBodyDetails {
+              h5.actionCardBodyDetailsTitle {
+                color: #333;
+                font-size: 1.25rem;
+                margin-bottom: 1rem;
+                border-bottom: 2px solid #00bcd4;
+                padding-bottom: 0.5rem;
+              }
+              p.actionCardBodyDetailsDesc {
+                margin-bottom: 0.5rem;
+                padding: 0.5rem 0;
+                border-bottom: 1px solid #eee;
+
+                &:last-child {
+                  border-bottom: none;
+                }
+              }
+
+              button.actionCardBodyDetailsBtn {
+                background: #00bcd4;
+                border: none;
+                border-radius: 0.5rem;
+                transition: all 0.3s ease;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                &:hover {
+                  background: #008b9c;
+                  transform: translateY(-2px);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+div.actionModel {
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    animation: slideUp 1s ease-in-out;
+
+    div.actionModelHeader {
+      border-bottom: 2px solid #00bcd4;
+      gap: 20px;
+      animation: shake 1s ease-in-out;
+    }
+
+    div.actionModelFooter {
+      border-top: none;
+
+      button.actionModelFooterBtn {
+        background: #00bcd4;
+        border: none;
+
+        &:hover {
+          background: #008b9c;
+        }
+      }
+    }
+  }

@@ -1,0 +1,919 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\db\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\db\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\orchestration\\managerorcread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\orchestration\\managerorcread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\bl\\managerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\bl\\managerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\dal\\managerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\dal\\managerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\middleware\\logrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\middleware\\logrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\employeeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\employeeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\bl\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\bl\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\orchestration\\employeeorcwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\orchestration\\employeeorcwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\middleware\\execption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\middleware\\execption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\employeedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\employeedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\service\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\service\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\orchestrationinterfaces\\imanagerorcread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\orchestrationinterfaces\\imanagerorcread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\orchestration\\managerorcwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\orchestration\\managerorcwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\blinterfaces\\imanagerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\blinterfaces\\imanagerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\dalinterfaces\\imanagerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\dalinterfaces\\imanagerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\contracts\\imanagercontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\contracts\\imanagercontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\managerfalldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\managerfalldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\employeewithmanagerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\employeewithmanagerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\contracts\\iemployeecontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\contracts\\iemployeecontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\orchestrationinterfaces\\iemployeeorcwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\orchestrationinterfaces\\iemployeeorcwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\blinterfaces\\iemployeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\blinterfaces\\iemployeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\dalinterfaces\\iemployeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\dalinterfaces\\iemployeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\managerwithemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\managerwithemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\customexception\\createexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\customexception\\createexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\customexception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\customexception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\customexception\\sqlexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\customexception\\sqlexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\customexception\\updateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\customexception\\updateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\customexception\\fieldsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\customexception\\fieldsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\customexception\\deleteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\customexception\\deleteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\contracts\\iauthcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\contracts\\iauthcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\db\\dbconfigreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\db\\dbconfigreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\orchestration\\employeeorcread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\orchestration\\employeeorcread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\orchestrationinterfaces\\iemployeeorcread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\orchestrationinterfaces\\iemployeeorcread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\orchestrationinterfaces\\imanagerorcwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\orchestrationinterfaces\\imanagerorcwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\historyfulldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\historyfulldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\enum\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\enum\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\models\\employeemaindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\models\\employeemaindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\middleware\\iexecption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\middleware\\iexecption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\logs\\log-20241214.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\logs\\log-20241214.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\helpers\\middleware\\ilogrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\helpers\\middleware\\ilogrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\before works\\net projects\\danielamosserver_core\\danielamosserver_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8ABFF4D-630D-4839-BBE1-518930A08562}|danielAmosServer_Core\\danielAmosServer_Core.csproj|solutionrelative:danielamosserver_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 521,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9b96d899-3214-4b6f-a8b9-182d4bc2f76f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\Employee.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:24:45.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManagerFallData.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\ManagerFallData.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\ManagerFallData.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\ManagerFallData.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\ManagerFallData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:13:07.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAmwJ4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:45:57.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Execption.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Middleware\\Execption.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\Middleware\\Execption.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Middleware\\Execption.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\Middleware\\Execption.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAjwE8AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:30:39.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\DB\\DataHelper.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\DB\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\DB\\DataHelper.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\DB\\DataHelper.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:25:06.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:50:29.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerBL.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\BL\\ManagerBL.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\BL\\ManagerBL.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\BL\\ManagerBL.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\BL\\ManagerBL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:35:43.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerOrcWrite.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Orchestration\\ManagerOrcWrite.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Orchestration\\ManagerOrcWrite.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Orchestration\\ManagerOrcWrite.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Orchestration\\ManagerOrcWrite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:48:07.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\EmployeeUpdate.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\EmployeeUpdate.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\EmployeeUpdate.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\EmployeeUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:23:04.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Program.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Program.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Program.cs*",
+              "RelativeToolTip": "danielAmosServer_Core\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:31:26.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerDAL.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\DAL\\ManagerDAL.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\DAL\\ManagerDAL.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\DAL\\ManagerDAL.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\DAL\\ManagerDAL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vyIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:16:50.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IManagerDAL.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\DALInterfaces\\IManagerDAL.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\DALInterfaces\\IManagerDAL.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\DALInterfaces\\IManagerDAL.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\DALInterfaces\\IManagerDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:45:04.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IManagerBL.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\BLInterfaces\\IManagerBL.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\BLInterfaces\\IManagerBL.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\BLInterfaces\\IManagerBL.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\BLInterfaces\\IManagerBL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:35:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IManagerContracts.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Contracts\\IManagerContracts.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Contracts\\IManagerContracts.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Contracts\\IManagerContracts.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Contracts\\IManagerContracts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:51:32.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\History.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\History.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\History.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\History.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:27:28.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeOrcWrite.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Orchestration\\EmployeeOrcWrite.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Orchestration\\EmployeeOrcWrite.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Orchestration\\EmployeeOrcWrite.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Orchestration\\EmployeeOrcWrite.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:46:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Service\\AppService.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\Service\\AppService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Service\\AppService.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\Service\\AppService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:56:30.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerOrcRead.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Orchestration\\ManagerOrcRead.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Orchestration\\ManagerOrcRead.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Orchestration\\ManagerOrcRead.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Orchestration\\ManagerOrcRead.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:48:46.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogRequest.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Middleware\\LogRequest.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\Middleware\\LogRequest.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Middleware\\LogRequest.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\Middleware\\LogRequest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA2wBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:23:53.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeDelete.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\EmployeeDelete.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\EmployeeDelete.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\EmployeeDelete.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\EmployeeDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:27:02.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\BL\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\BL\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\BL\\EmployeeBL.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\BL\\EmployeeBL.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:17:12.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\DAL\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\DAL\\EmployeeDAL.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\DAL\\EmployeeDAL.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\DAL\\EmployeeDAL.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAWwHIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:29:21.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmployeeContracts.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Contracts\\IEmployeeContracts.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Contracts\\IEmployeeContracts.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Contracts\\IEmployeeContracts.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Contracts\\IEmployeeContracts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:51:52.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\Manager.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:27:53.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IManagerOrcRead.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\OrchestrationInterfaces\\IManagerOrcRead.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\OrchestrationInterfaces\\IManagerOrcRead.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\OrchestrationInterfaces\\IManagerOrcRead.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\OrchestrationInterfaces\\IManagerOrcRead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:48:56.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IEmployeeOrcWrite.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\OrchestrationInterfaces\\IEmployeeOrcWrite.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\OrchestrationInterfaces\\IEmployeeOrcWrite.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\OrchestrationInterfaces\\IEmployeeOrcWrite.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\OrchestrationInterfaces\\IEmployeeOrcWrite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:49:14.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEmployeeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\DALInterfaces\\IEmployeeDAL.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\DALInterfaces\\IEmployeeDAL.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\DALInterfaces\\IEmployeeDAL.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\DALInterfaces\\IEmployeeDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:45:19.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\BLInterfaces\\IEmployeeBL.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\BLInterfaces\\IEmployeeBL.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\BLInterfaces\\IEmployeeBL.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\BLInterfaces\\IEmployeeBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:47:45.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManagerWithEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\ManagerWithEmployee.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\ManagerWithEmployee.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\ManagerWithEmployee.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\ManagerWithEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:27:06.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeWithManagerData.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\EmployeeWithManagerData.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\EmployeeWithManagerData.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\EmployeeWithManagerData.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\EmployeeWithManagerData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:53:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\CustomException\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\NotFoundException.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\CustomException\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:12:18.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateException.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\CreateException.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\CustomException\\CreateException.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\CreateException.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\CustomException\\CreateException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:15:11.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SqlException.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\SqlException.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\CustomException\\SqlException.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\SqlException.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\CustomException\\SqlException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:36:12.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:42:51.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateException.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\UpdateException.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\CustomException\\UpdateException.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\UpdateException.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\CustomException\\UpdateException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:15:45.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FieldsException.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\FieldsException.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\CustomException\\FieldsException.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\FieldsException.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\CustomException\\FieldsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:57:46.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Enum\\UserRoles.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\Enum\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Enum\\UserRoles.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\Enum\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:43:54.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DbConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\DB\\DbConfigReader.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\DB\\DbConfigReader.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\DB\\DbConfigReader.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\DB\\DbConfigReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:55:49.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeleteException.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\DeleteException.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\CustomException\\DeleteException.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\CustomException\\DeleteException.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\CustomException\\DeleteException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:16:02.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmployeeOrcRead.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Orchestration\\EmployeeOrcRead.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Orchestration\\EmployeeOrcRead.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Orchestration\\EmployeeOrcRead.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Orchestration\\EmployeeOrcRead.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwCAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:17:26.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IAuthContracts.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Contracts\\IAuthContracts.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Contracts\\IAuthContracts.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Contracts\\IAuthContracts.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Contracts\\IAuthContracts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:12:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IEmployeeOrcRead.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\OrchestrationInterfaces\\IEmployeeOrcRead.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\OrchestrationInterfaces\\IEmployeeOrcRead.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\OrchestrationInterfaces\\IEmployeeOrcRead.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\OrchestrationInterfaces\\IEmployeeOrcRead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:49:15.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IManagerOrcWrite.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\OrchestrationInterfaces\\IManagerOrcWrite.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\OrchestrationInterfaces\\IManagerOrcWrite.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\OrchestrationInterfaces\\IManagerOrcWrite.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\OrchestrationInterfaces\\IManagerOrcWrite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:49:17.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HistoryFullData.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\HistoryFullData.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\HistoryFullData.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\HistoryFullData.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\HistoryFullData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA8wA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:16:38.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmployeeMainData.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\EmployeeMainData.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\EmployeeMainData.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\EmployeeMainData.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\EmployeeMainData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:02:36.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LogType.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Enum\\LogType.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\Enum\\LogType.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Enum\\LogType.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\Enum\\LogType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:37:59.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "log-20241214.txt",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Logs\\log-20241214.txt",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Logs\\log-20241214.txt",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Logs\\log-20241214.txt",
+              "RelativeToolTip": "danielAmosServer_Core\\Logs\\log-20241214.txt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-13T23:38:20.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IExecption.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Middleware\\IExecption.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\Middleware\\IExecption.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Middleware\\IExecption.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\Middleware\\IExecption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:32:12.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ILogRequest.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Middleware\\ILogRequest.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Helpers\\Middleware\\ILogRequest.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Helpers\\Middleware\\ILogRequest.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Helpers\\Middleware\\ILogRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:25:48.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\JwtSettings.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:42:31.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\appsettings.json",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\appsettings.json",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\appsettings.json",
+              "RelativeToolTip": "danielAmosServer_Core\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T21:41:41.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\Log.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\Log.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:27:40.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Action.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\Action.cs",
+              "RelativeDocumentMoniker": "danielAmosServer_Core\\Models\\Action.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\Before Works\\Net projects\\danielAmosServer_Core\\danielAmosServer_Core\\Models\\Action.cs",
+              "RelativeToolTip": "danielAmosServer_Core\\Models\\Action.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:26:29.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

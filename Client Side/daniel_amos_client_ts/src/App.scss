@@ -1,0 +1,15 @@
+@use "./styles/animations.scss" as *;;
+@use "./styles/variables.scss" as *;;
+
+div.App {
+  background-image: url("./assets/images/back.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+
+  div.page{
+    min-height: 100vh;
+  }
+  
+  }

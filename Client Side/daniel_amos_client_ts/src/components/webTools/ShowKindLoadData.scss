@@ -1,0 +1,13 @@
+@use "../../styles/variables.scss" as *;
+
+div.mainKindLoadData {
+    p.mainKindLoadDataTitle {
+      font-size: $header-font-size ;
+      font-family: $header-font-family;
+      color: #288c8f;
+    }
+
+    .mainKindLoadDataImg{
+        width:10vw;
+    }
+  }

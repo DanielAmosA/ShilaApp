@@ -1,0 +1,43 @@
+@use "../../styles/variables.scss" as *;
+
+div.menu {
+  padding: 0 0.3vw;
+  border-radius: $big-border-radius;
+  font-size: $topTitle-font-size;
+  overflow: hidden;
+  perspective: 1px;
+  border-collapse: separate;
+  display: inline-flex;
+  gap: 1.5vw;
+  background-image: linear-gradient(
+    to right,
+    #a1c4fd,
+    #0cabc7,
+    #aad8fd,
+    #2bd4dc,
+    #c2e9fb
+  );
+  padding: 10px;
+
+  div.menuItem,
+  nav.menuItem {
+    &:hover {
+      background: linear-gradient(to right, #dad299, #b0dab9);
+      border-radius: $big-border-radius;
+    }
+
+    a {
+      font-family: $subTitle-font-family;
+      color: #4ab04e;
+      text-decoration: none;
+      cursor: $cursor-Info;
+
+      &.active {
+        background-color: #4ab04e;
+        color: white;
+        border-radius: $big-border-radius;
+        padding: 5px 10px;
+      }
+    }
+  }
+}

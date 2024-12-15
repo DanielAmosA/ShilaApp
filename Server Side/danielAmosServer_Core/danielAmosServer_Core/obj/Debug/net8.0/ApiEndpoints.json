@@ -1,0 +1,272 @@
+[
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.AuthController",
+    "Method": "GenerateToken",
+    "RelativePath": "api/Auth/GenerateToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nameToken",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.EmployeeController",
+    "Method": "EmployeeDelete",
+    "RelativePath": "api/Employee/EmployeeDelete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeDelete",
+        "Type": "danielAmosServer_Core.Models.EmployeeDelete",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.EmployeeController",
+    "Method": "EmployeeInsert",
+    "RelativePath": "api/Employee/EmployeeInsert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "danielAmosServer_Core.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.EmployeeController",
+    "Method": "EmployeeUpdate",
+    "RelativePath": "api/Employee/EmployeeUpdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeUpdate",
+        "Type": "danielAmosServer_Core.Models.EmployeeUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.EmployeeController",
+    "Method": "GetThePasswordByEmail",
+    "RelativePath": "api/Employee/GetThePasswordByEmail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.EmployeeController",
+    "Method": "ManagerWithEmployeeInsert",
+    "RelativePath": "api/Employee/ManagerWithEmployeeInsert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "managerWithEmployee",
+        "Type": "danielAmosServer_Core.Models.ManagerWithEmployee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.EmployeeController",
+    "Method": "SelectByContaintsFullName",
+    "RelativePath": "api/Employee/SelectByContaintsFullName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fullName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.EmployeeController",
+    "Method": "SelectByEmailAndPassword",
+    "RelativePath": "api/Employee/SelectByEmailAndPassword",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.ManagerController",
+    "Method": "ActionInsert",
+    "RelativePath": "api/Manager/ActionInsert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "action",
+        "Type": "danielAmosServer_Core.Models.Action",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.ManagerController",
+    "Method": "ActionSelect",
+    "RelativePath": "api/Manager/ActionSelect",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.ManagerController",
+    "Method": "HistoryInsert",
+    "RelativePath": "api/Manager/HistoryInsert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "history",
+        "Type": "danielAmosServer_Core.Models.History",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.ManagerController",
+    "Method": "HistorySelectByEmployeeID",
+    "RelativePath": "api/Manager/HistorySelectByEmployeeID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.ManagerController",
+    "Method": "LogSelectByType",
+    "RelativePath": "api/Manager/LogSelectByType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.ManagerController",
+    "Method": "ManagerFullDataSelectByID",
+    "RelativePath": "api/Manager/ManagerFullDataSelectByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.ManagerController",
+    "Method": "ManagerInsert",
+    "RelativePath": "api/Manager/ManagerInsert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "managerFallData",
+        "Type": "danielAmosServer_Core.Models.ManagerFallData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.ManagerController",
+    "Method": "ManagerSelect",
+    "RelativePath": "api/Manager/ManagerSelect",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "danielAmosServer_Core.Controllers.ManagerController",
+    "Method": "SelectByManager",
+    "RelativePath": "api/Manager/SelectByManager",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

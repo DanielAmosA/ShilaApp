@@ -1,0 +1,39 @@
+@use '../../styles/variables.scss' as *;
+@use '../../styles/animations.scss' as *;
+
+footer.Footer {
+    background-color: #82b9c3;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    animation: backgroundColorFade 5s infinite;
+    p {
+      margin: 0;
+      font-size:$title-font-size;
+      font-family:$title-font-family;
+      animation: textBlink 5s infinite;
+    }
+  }
+
+  /*Blink animation for text*/
+@keyframes backgroundColorFade {
+    0% {
+      background-color: #05647c;
+    }
+    50% {
+      background-color: #0cabc7;
+    }
+    100% {
+      background-color: #82b9c3;
+    }
+  }
+  
+  /*Text blinking animation*/
+  @keyframes textBlink {
+    0%, 100% {
+      color: #8dd205;
+    }
+    50% {
+      color: #ffdd00;
+    }
+  }
